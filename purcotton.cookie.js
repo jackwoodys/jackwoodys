@@ -5,7 +5,7 @@ Tiger, [2024/8/9 13:06]
 环境变量：qmzmh
 脚本作者：WowYiJiu
 更新时间：2024-2-18
-脚本来源：https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/purcotton.cookie.js
+脚本来源：https://raw.githubusercontent.com/jackwoodys/jackwoodys/main/purcotton.cookie.js
 ====================================================================================================
 获取Cookie说明：
 微信搜索小程序 全棉时代官方商城，点击我的，在活动专区中点击天天种棉花，看到系统消息提示获取Cookie成功即可，支持获取多个账号Cookie，采用换行隔开
@@ -16,7 +16,7 @@ Tiger, [2024/8/9 13:06]
 sg01.purcotton.com
 
 [rewrite_local]
-^https:\/\/sg01\.purcotton\.com\/api\/task\/list url script-request-header https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/purcotton.cookie.js
+^https:\/\/sg01\.purcotton\.com\/api\/task\/list url script-request-header https://raw.githubusercontent.com/jackwoodys/jackwoodys/main/purcotton.cookie.js
 ====================================================================================================
 */
 const $ = new Env('全棉时代种棉花Cookie');
