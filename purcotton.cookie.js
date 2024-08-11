@@ -1,11 +1,10 @@
-Tiger, [2024/8/9 13:06]
 /*
 脚本名称：全棉时代官方商城获取天天种棉花Cookie脚本
 脚本说明：本脚本仅适用于获取全棉时代官方商城天天种棉花Cookie，仅测试QuantumultX
 环境变量：qmzmh
 脚本作者：WowYiJiu
 更新时间：2024-2-18
-脚本来源：https://raw.githubusercontent.com/jackwoodys/jackwoodys/main/purcotton.cookie.js
+脚本来源：https://raw.githubusercontent.com/WowYiJiu
 ====================================================================================================
 获取Cookie说明：
 微信搜索小程序 全棉时代官方商城，点击我的，在活动专区中点击天天种棉花，看到系统消息提示获取Cookie成功即可，支持获取多个账号Cookie，采用换行隔开
